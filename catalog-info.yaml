@@ -1,8 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
-jkshdfjkshkfj
 metadata:
-  name: test-3
+  name: test-1
   description: A testing service
   annotations:
     github.com/project-slug: testing-org-roadie/test-3
